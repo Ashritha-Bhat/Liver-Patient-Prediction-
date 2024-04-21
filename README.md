@@ -1,2 +1,6 @@
 # Liver-Patient-Prediction-
 Liver Patient Prediction 
+
+Liver Patient Prediction involves developing machine learning models to predict whether a patient has liver disease based on various medical parameters and indicators. The project likely includes data related to features such as age, gender, total bilirubin levels, direct bilirubin levels, alkaline phosphatase levels, alanine aminotransferase levels, aspartate aminotransferase levels, total protein levels, albumin levels, albumin/globulin ratio, and possibly others. By analyzing these features and leveraging machine learning algorithms, the project aims to accurately classify patients as either having liver disease or not, aiding in early diagnosis and treatment.
+
+On this project we Liver Patient predicted on this majority of male or female having liver disease and total number of the patient having liver disease on this we analyzed through Pie chart there we saw a complete picture about the percentages and after that we tried 4 to 5 algorithms there we got overfitting models after using smote technique with logistic regression we achieved 66% of accuracy not a best score but compare to other models i can say better score and ROC and AUC curve score we got 0.78%.
